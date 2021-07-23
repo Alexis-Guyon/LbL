@@ -1,0 +1,20 @@
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\League Bot Legends.exe
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\League Bot Legends.deps.json
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\League Bot Legends.runtimeconfig.json
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\League Bot Legends.runtimeconfig.dev.json
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\League Bot Legends.dll
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\ref\League Bot Legends.dll
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\League Bot Legends.pdb
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.AssemblyInfoInputs.cache
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.AssemblyInfo.cs
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.csproj.CoreCompileInputs.cache
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.dll
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\ref\League Bot Legends.dll
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.pdb
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.genruntimeconfig.cache
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\Leaf.xNet.dll
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.csproj.AssemblyReference.cache
+C:\Users\panic\RiderProjects\League Bot Legends\League Bot Legends\obj\Debug\net5.0\League Bot Legends.csproj.CopyComplete
